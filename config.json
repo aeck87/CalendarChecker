@@ -1,0 +1,7 @@
+{
+    "credentials_filename": "credentials.json",
+    "captured_filename": "events_captured.dat",
+    "check_interval_min": 5,
+    "calendar_ids":
+      []
+}
